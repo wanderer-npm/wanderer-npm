@@ -6,6 +6,8 @@ i build things. mostly ones i wanted to exist and couldn't find.
 
 - [**rx-trace**](https://github.com/wanderer-npm/rx-trace) — crowd-sourced map of which pharmacies near you actually have your medicine in stock. starts in india, works anywhere.
 - [**slug-bridge**](https://github.com/slug-discord/slug-bridge) — paper plugin that streams a minecraft server's chat and events to a discord bot over websocket.
+- [**dispatch**](https://github.com/wanderer-npm/dispatch) — routes github webhook events to discord. multi-channel routing, 10 event types, single binary.
+- [**loca**](https://github.com/wanderer-npm/loca) — async i18n library for python. 18 built-in locales, cldr plural rules, relative time, date and number formatting.
 
 ### stack
 
