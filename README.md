@@ -8,6 +8,7 @@ i build things. mostly ones i wanted to exist and couldn't find.
 - [**slug-bridge**](https://github.com/slug-discord/slug-bridge) — paper plugin that streams a minecraft server's chat and events to a discord bot over websocket.
 - [**dispatch**](https://github.com/wanderer-npm/dispatch) — routes github webhook events to discord. multi-channel routing, 10 event types, single binary.
 - [**loca**](https://github.com/wanderer-npm/loca) — async i18n library for python. 18 built-in locales, cldr plural rules, relative time, date and number formatting.
+- [**fluxwave**](https://github.com/fluxWaveProject/fluxwave) — modern async lavalink client library for python discord music bots.
 
 ### stack
 
@@ -57,8 +58,8 @@ i build things. mostly ones i wanted to exist and couldn't find.
 ### stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wanderer-npm&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e6e6e6&icon_color=22c55e&cache_seconds=86400" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderer-npm&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e6e6e6&cache_seconds=86400" height="165" alt="top languages" />
+  <img src="https://github-readme-stats-virid-seven-45.vercel.app/api?username=wanderer-npm&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" height="165" alt="github stats" />
+  <img src="https://github-readme-stats-virid-seven-45.vercel.app/api/top-langs/?username=wanderer-npm&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" height="165" alt="top languages" />
 </p>
 
 ### what i'm doing right now
