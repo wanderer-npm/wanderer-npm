@@ -55,13 +55,6 @@ i build things. mostly ones i wanted to exist and couldn't find.
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### stats
-
-<p>
-  <img src="https://github-readme-stats-virid-seven-45.vercel.app/api?username=wanderer-npm&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" height="165" alt="github stats" />
-  <img src="https://github-readme-stats-virid-seven-45.vercel.app/api/top-langs/?username=wanderer-npm&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" height="165" alt="top languages" />
-</p>
-
 ### what i'm doing right now
 
 <a href="https://discord.com/users/1117553916075331656">
