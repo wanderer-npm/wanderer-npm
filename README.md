@@ -4,6 +4,7 @@ i build things. mostly ones i wanted to exist and couldn't find.
 
 ### on the bench
 
+- [**slug**](https://slug.lat/) - advanced discord bot with over 2000 public commands with modern ui & dashboard
 - [**rx-trace**](https://github.com/wanderer-npm/rx-trace) — crowd-sourced map of which pharmacies near you actually have your medicine in stock. starts in india, works anywhere.
 - [**slug-bridge**](https://github.com/slug-discord/slug-bridge) — paper plugin that streams a minecraft server's chat and events to a discord bot over websocket.
 - [**dispatch**](https://github.com/wanderer-npm/dispatch) — routes github webhook events to discord. multi-channel routing, 10 event types, single binary.
@@ -54,12 +55,6 @@ i build things. mostly ones i wanted to exist and couldn't find.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### what i'm doing right now
-
-<a href="https://discord.com/users/1117553916075331656">
-  <img src="https://lanyard.cnrad.dev/api/1117553916075331656?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=offline" alt="discord presence" />
-</a>
 
 ### reach me
 
